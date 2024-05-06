@@ -71,3 +71,42 @@ bash
 source venv/bin/activate
 
 Você saberá que o ambiente está ativado porque o nome do ambiente virtual (venv) aparecerá no prompt de comando.
+
+Instalação do Flask
+
+ Passo 1: Instalar o Flask
+
+Com o ambiente virtual ativado, instale o Flask usando o pip:
+
+bash
+pip install Flask
+
+
+Passo 2: Criar um arquivo para o aplicativo Flask
+
+Crie um arquivo chamado app.py dentro da pasta do projeto e 
+adicione o seguinte código Python para iniciar um aplicativo básico Flask:
+
+python
+from flask import Flask
+app = Flask(name)
+
+@app.route('/')
+def home():
+    return "Hello, Flask!"
+
+if name == 'main':
+    app.run(debug=True)
+
+
+Passo 3: Executar o aplicativo Flask
+
+Ainda com o ambiente virtual ativado, execute o aplicativo Flask:
+
+bash
+python app.py
+
+
+
+Seu aplicativo agora deve estar rodando em http://localhost:5000/. 
+Você pode acessar esta URL no seu navegador para ver a mensagem "Hello, Flask!"
