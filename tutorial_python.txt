@@ -35,3 +35,6 @@ Passo 1: Instalar o virtualenv
 
 Abra o terminal e instale o virtualenv, se ainda não estiver instalado. 
 O virtualenv é uma ferramenta para criar ambientes Python isolados.
+
+bash
+pip install virtualenv
