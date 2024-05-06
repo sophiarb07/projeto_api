@@ -51,4 +51,4 @@ Passo 9: Autenticação no GitHub:
 Passo 10: Verifique seu Repositório no GitHub:
     - Volte para o GitHub e verifique se seus arquivos foram sincronizados corretamente.
 
-    Com isso, seu repositório local estará configurado para sincronizar com o GitHub.
+    Com isso, seu repositório local estará configurado para sincronizar com o GitHub!
