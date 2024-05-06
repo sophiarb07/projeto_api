@@ -28,3 +28,7 @@ um framework de desenvolvimento web em Python, na pasta do seu projeto.
  Requisitos
 - Python instalado no seu sistema
 - Acesso ao terminal ou prompt de comando.
+
+Instalação do Virtualenv
+
+Passo 1: Instalar o virtualenv
