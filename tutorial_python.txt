@@ -4,6 +4,8 @@ Este tutorial vai te direciornar através do processo de instalação do Python 
 
 O QUE É PYTHON: Python é uma linguagem de programação de alto nível, interpretada e com uma sintaxe que prioriza 
 a legibilidade do código. 
-É utilizada em diversas áreas, como desenvolvimento web, análise de dados, inteligência artificial e automação
+É utilizada em diversas áreas, como desenvolvimento web, análise de dados, inteligência artificial e automação.
 
-kkk
+Passo a passo para fazer o download:
+
+Passo 1: Acesse o site oficial Visite o site oficial do Python em [python.org](https://python.org).
